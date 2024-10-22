@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''Task 9's module.
+'''Nine module.
 '''
 
 
